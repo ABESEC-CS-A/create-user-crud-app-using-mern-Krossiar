@@ -1,9 +1,9 @@
 import React from 'react'
-
+import '../App.css'
 const Footer = () => {
   return (
-    <div>
-      <h1>Design and Developed By Vipin Kumar</h1>
+    <div className='footer'>
+      <h4>Design and Developed By Vipin Kumar</h4>
     </div>
   )
 }
