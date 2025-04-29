@@ -13,9 +13,9 @@
   text-align: center;
 }
 .content{
-  width: 100vw;
   height: 85vh;
-  background-color: black;
-  color: white;
+  width: 100vw;
+  background-color: gainsboro;
+  color: black;
   text-align: center;
 }
